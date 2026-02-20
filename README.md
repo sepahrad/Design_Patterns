@@ -1,0 +1,2 @@
+CREATIONAL DESIGN PATTERNS:
+1 - Singleton
