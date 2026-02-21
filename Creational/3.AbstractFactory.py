@@ -1,3 +1,10 @@
+# Abstract Factory Pattern Example in Python
+# The Abstract Factory pattern is a design pattern that provides an interface for creating families of related or dependent 
+# objects without specifying their concrete classes.
+# In this example, we have a RestaurantFactory that can create different types of restaurants (American, French, etc.) and 
+# each restaurant can make its own food and drink. The client code can use the factory to get the appropriate restaurant 
+
+
 from abc import ABC, abstractmethod
 
 class FoodType:
