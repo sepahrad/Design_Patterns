@@ -7,3 +7,4 @@
 
 # STRUCTURAL DESIGN PATTERNS
 1 - Adapter
+2 - Bridge
