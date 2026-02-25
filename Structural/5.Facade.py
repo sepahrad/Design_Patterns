@@ -10,6 +10,11 @@
 # to change the Facade code, not the code using the Facade.
 # Ease of Use: It provides a "best-practice" entry point for common tasks.
 
+# Facade vs. Adapter (Common Interview Question)
+# People often confuse these two, so here is the difference:
+# Facade defines a new, simpler interface for an entire subsystem. It's about making things easier.
+# Adapter tries to make an existing interface compatible with another. It’s about making two things fit together.
+
 # --- Complex Subsystem Classes ---
 class VideoFile:
     def __init__(self, filename):
