@@ -11,3 +11,4 @@
 3 - Composite
 4 - Decorator / Wrapper ***
 5 - Facade ***
+6 - Flyweight ***
