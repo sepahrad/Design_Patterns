@@ -12,3 +12,4 @@
 4 - Decorator / Wrapper ***
 5 - Facade ***
 6 - Flyweight ***
+7 - Proxy ***
