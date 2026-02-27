@@ -13,3 +13,6 @@
 5 - Facade ***
 6 - Flyweight ***
 7 - Proxy ***
+
+# BEHAVIOURAL DESIGN PATTERNS
+7 - Observer
