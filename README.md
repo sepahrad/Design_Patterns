@@ -15,4 +15,7 @@
 7 - Proxy ***
 
 # BEHAVIOURAL DESIGN PATTERNS
+1 - Chain of responsibility
+2 - Command
+3 - Interpreter
 7 - Observer
