@@ -18,4 +18,5 @@
 1 - Chain of responsibility
 2 - Command
 3 - Interpreter
+4 - Iterator
 7 - Observer
