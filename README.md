@@ -20,4 +20,5 @@
 3 - Interpreter
 4 - Iterator
 5 - Mediator
+6 - Memento
 7 - Observer
