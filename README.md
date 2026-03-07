@@ -22,3 +22,4 @@
 5 - Mediator
 6 - Memento
 7 - Observer
+8 - State
