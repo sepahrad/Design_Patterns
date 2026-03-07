@@ -19,4 +19,5 @@
 2 - Command
 3 - Interpreter
 4 - Iterator
+5 - Mediator
 7 - Observer
